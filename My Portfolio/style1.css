@@ -1,0 +1,18 @@
+h3{
+    color:brown;
+    background-color: aqua;
+}
+h4{
+    text-align:center;
+    background-color: blue;
+    color: greenyellow;
+}
+.hobbies{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.GoBack{
+    display:flex;
+    justify-content: flex-end;
+}
